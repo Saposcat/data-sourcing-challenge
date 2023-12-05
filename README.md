@@ -6,6 +6,7 @@ Configure their own file. It is a simple text document, and it can be done
 by making a .txt file with the following lines of code:
 
 NYT_API_KEY="ENTER YOUR KEY HERE"
+
 TMDB_API_KEY="ENTER YOUR KEY HERE"
 
 The file should then be saved and called "API_Keys" to work with the code provided;
